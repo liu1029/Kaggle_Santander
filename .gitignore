@@ -1,0 +1,8 @@
+
+.DS_Store
+        .gitignore
+        .idea/
+        .ipynb_checkpoints/
+        "Icon\r"
+        data/
+/venv
